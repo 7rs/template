@@ -15,26 +15,26 @@
 </p>
 
 
-## License
+## License  
 
 
-## Benchmark (Score)
+## Benchmark (Score)  
 
 
-## Requirement
+## Requirement  
 
 
-## Installation
+## Installation  
 
 ```bash
-git clone git@github.com:7rs/pages.git --depth 1
-# git clone https://github.com/7rs/pages.git --depth 1
-```
+git clone git@github.com:7rs/template.git --depth 1
+# git clone https://github.com/7rs/template.git --depth 1
+```  
 
-## Contributing
+## Contributing  
 
-Please use **Japanese** or **English**. If using them is difficult for you, I recommend using [DeepL][deepl].
+Please use **Japanese** or **English**. If using them is difficult for you, I recommend using [DeepL][deepl].  
 
-## Authors)
+## Authors(s)  
 
-`Author:` [Cbrnex](https://github.com/7rs)
+`Author:` [Cbrnex](https://github.com/7rs)  
