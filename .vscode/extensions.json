@@ -3,6 +3,7 @@
         "davidanson.vscode-markdownlint",
         "oderwat.indent-rainbow",
         "usernamehw.errorlens",
-        "editorconfig.editorconfig"
+        "editorconfig.editorconfig",
+        "esbenp.prettier-vscode"
     ]
 }
