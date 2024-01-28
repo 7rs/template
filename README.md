@@ -19,14 +19,42 @@
 
   **Template** is the template repository for creation new repository.  
 
+<!-- Remove this item and use badges for the main description -->
+## Badges  
+
+### Repository
+
   [![License][license-badge]][license]
   [![Modified][modified-badge]][commits]
-  [![Commits][commits-badge]][commits]
+  [![Commits][commits-badge]][commits]  
 
-  [![Open issues][open-issues-badge]][open-issues]
-  [![Closed issues][closed-issues-badge]][closed-issues]
-  [![Open pull requests][open-prs-badge]][open-prs]
-  [![Closed pull requests][closed-prs-badge]][closed-prs]
+  [![Open issues][open-issues-badge]][open-issues][![Closed issues][closed-issues-badge]][closed-issues]
+  [![Open pull requests][open-prs-badge]][open-prs][![Closed pull requests][closed-prs-badge]][closed-prs]  
+
+### Languages  
+
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+  [![PHP](https://img.shields.io/badge/PHP-2C2D72?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+  [![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
+
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+  
+  [![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+  [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+  [![Csharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+  [![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/ja/)
+
+  [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)](https://www.haskell.org/)
+
+  [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+  [![Cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=black)
 
 ## Features  
 
